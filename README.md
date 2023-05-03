@@ -16,7 +16,10 @@ https://www.w3schools.com/charsets/ref_emoji.asp <br>
 
 <h2>Live URL</h2>
 
+https://chemaking13.github.io/Memories/
 
 
-<h2>Preview</h2>
+<h2>Future Deployment</h2>
 
+* Add more interactivity using Java Script
+* Add more pictures 
